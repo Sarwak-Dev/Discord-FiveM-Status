@@ -1,0 +1,11 @@
+name: "YOUR_BOT_NAME_HERE"
+lang: "en"
+token: "---> YOUR TOKEN HERE <---" # Discord bot token
+interval: 10000 # ms
+server: "51.222.175.133:30120" # Your server ip
+
+message:
+  enabled: true
+  channel: "1154097939094966342" # Channel id 
+status:
+  enabled: true
